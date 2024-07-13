@@ -1,12 +1,5 @@
-**<h1 style="text-align: center">Site de filmes📽️ construído no React⚛️</h1>**
-
-## 🗒️ *Sobre*
-
-O React⚛️ é uma biblioteca📚 do Javascript de Interface de Usuário (UI) desenvolvida pela **Meta**. Foi criada por *Jordan Walke*, engenheiro de software do Facebook, com o objetivo de fornecer novas experiências de usuário de forma mais dinâmica e responsiva, oferecendo alta performance ao carregar os conteúdos.
-
-Para aprimorar meus conhecimentos em Typescript, html e css, decidi criar uma aplicação front-end em React que permite o usuário pesquisar diversos catálagos de filmes lançados desde o século passado até os dias de hoje.
-
-Para usufruir e testar o projeto, é necessário ter acesso a internet para o front-end acessar a API de filmes. O site que utilizei para obter as informações necessárias foi o *[OMDb API](https://www.omdbapi.com/)*. Você precisará inserir seu email para obter a API_KEY afim de acessar o MoviesParadise🎥.
+**<h1 style="text-align: center">Movie website📽️ built on React⚛️</h1>**
+The website I used to obtain the necessary information was the *[OMDb API](https://www.omdbapi.com/)*. You will need to enter your email to obtain the API_KEY in order to access MoviesParadise.
 
 ``` typescript
 const MOVIE_URL: string = `https://www.omdbapi.com/?&apikey=[SUA_APIKEY]`;

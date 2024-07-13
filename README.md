@@ -1,4 +1,4 @@
-**<h1 style="text-align: center">Movie website📽️ built on React⚛️</h1>**
+**<h1 style="text-align: center">Movie website built on React⚛️</h1>**
 The website I used to obtain the necessary information was the *[OMDb API](https://www.omdbapi.com/)*. You will need to enter your email to obtain the API_KEY in order to access MoviesParadise.
 
 ``` typescript
@@ -33,12 +33,4 @@ The site has a movie search tab and a search button. Not to mention a loading sc
 
 ```
   npm run dev
-```
-
-```
-   VITE v5.0.10  ready in 388 ms
-
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: use --host to expose
-  ➜  press h + enter to show help
 ```

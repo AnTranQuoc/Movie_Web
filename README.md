@@ -4,14 +4,7 @@ The website I used to obtain the necessary information was the *[OMDb API](https
 ``` typescript
 const MOVIE_URL: string = `https://www.omdbapi.com/?&apikey=[SUA_APIKEY]`;
 ```
-
-A linguagem utilizada foi o Typescript por conter as seguintes vantagens:
-
-* Facilidade e clareza de código
-* Suporte a biblioteca JS
-* Criação de sistemas mais complexos, sem muito trabalho
-
-O site possui uma aba de pesquisa de filmes e um botão de pesquisa. Sem contar também em uma tela de loading que construi utilizando a biblioteca *[react-spinners](https://www.npmjs.com/package/react-spinners)*. Há também, em cada um dos cards, um botão de assistir e um de download, sendo estes para fins demonstrativos, ou seja, não possuem nenhuma ação. 
+The site has a movie search tab and a search button. Not to mention a loading screen that I built using the *[react-spinners](https://www.npmjs.com/package/react-spinners)* library. There is also, on each of the cards, a watch button and a download button, these are for demonstration purposes, that is, they do not have any action.
 
 ## 🛠️ *Desenvolvimento*
 

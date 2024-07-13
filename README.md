@@ -6,13 +6,7 @@ const MOVIE_URL: string = `https://www.omdbapi.com/?&apikey=[SUA_APIKEY]`;
 ```
 The site has a movie search tab and a search button. Not to mention a loading screen that I built using the *[react-spinners](https://www.npmjs.com/package/react-spinners)* library. There is also, on each of the cards, a watch button and a download button, these are for demonstration purposes, that is, they do not have any action.
 
-## 🛠️ *Desenvolvimento*
-
-O site foi desenvolvido através do framework React⚛️. Foi necessário utilizar conceitos fundamentais de html e css para a construção da pagina e do estilo. Não me aprofundei muito no estilo da página, já que meu principal objetivo foi desenvolver minhas habilidades no framework. A única parte com css que foi bem dedicada foi na animação dos cards quando ocorre o *hover*.
-
-Possivelmente, no futuro, pretendo utilizar o Firebase e permitir que o usuário adicione seus filmes favoritos ao cadastrar no MoviesParadise🎥.
-
-Eis as principais ferramentas utilizadas:
+## 🛠️ *Tools used*
 
 * Visual Studio Code
   * React extension
